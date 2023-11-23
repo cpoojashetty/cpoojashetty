@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a budding engineer with a knack for turning ideas into awesome solutions. My superhero skill? A solid foundation in Information Science & Engineering! I'm on a mission to tackle real-world challenges and team up with inspiring folks to create some tech magic. Let's build the future together! 🚀💡
+As a future engineer, I'm passionate about creating solutions that matter. Currently, I possess a strong foundation in Information Science & Engineering. I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
 
 
 ## 🌐 Socials:
