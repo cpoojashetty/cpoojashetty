@@ -1,4 +1,4 @@
-<img src="https://github.com/cpoojashetty/cpoojashetty/assets/94156289/ce7d8b86-a5b6-4419-917a-2ad7f03c15fe" width="900" height="100">
+<img src="https://github.com/cpoojashetty/cpoojashetty/assets/94156289/ce7d8b86-a5b6-4419-917a-2ad7f03c15fe" width="900" height="200">
 
 
 # 💫 About Me:
