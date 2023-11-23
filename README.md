@@ -1,5 +1,6 @@
 # 💫 About Me:
-          As a future engineer, I'm passionate about creating solutions that matter. Currently, I possess a strong foundation in Information Science & Engineering. I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
+As a future engineer, I'm passionate about creating solutions that matter. Currently, I possess a strong foundation in Information Science & Engineering. 
+I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
 
 
 # 🌐 Socials:
