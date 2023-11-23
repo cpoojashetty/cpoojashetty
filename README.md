@@ -1,4 +1,4 @@
-![th](https://github.com/cpoojashetty/cpoojashetty/assets/94156289/b2182432-1361-454f-ac65-65431a6a1eb7)
+![new](https://github.com/cpoojashetty/cpoojashetty/assets/94156289/ce7d8b86-a5b6-4419-917a-2ad7f03c15fe)
 # 💫 About Me:
 As a future engineer, I'm passionate about creating solutions that matter. Currently, I possess a strong foundation in Information Science & Engineering. 
 I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
