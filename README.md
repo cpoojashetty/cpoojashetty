@@ -1,3 +1,4 @@
+![giphy](https://github.com/cpoojashetty/cpoojashetty/assets/94156289/990e885c-23f8-40d0-91e5-9429c298992b)
 # 💫 About Me:
 As a future engineer, I'm passionate about creating solutions that matter. Currently, I possess a strong foundation in Information Science & Engineering. 
 I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
