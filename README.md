@@ -7,7 +7,8 @@ As a future engineer, I'm passionate about creating solutions that matter. Curre
 I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/c-pooja-shetty/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/c-pooja-shetty/)
+[![Gmail](<img src="https://github.com/cpoojashetty/cpoojashetty/assets/94156289/242eae8d-a1e5-4244-8fe3-481591106498" width="20" height="20">)](https://mail.google.com/mail/u/0/?hl=en/#inbox)
 - 💻 Check out my Portfolio <a href="https://cpoojashetty.carrd.co/">🔗</a> <br />
 
 
