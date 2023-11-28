@@ -1,6 +1,7 @@
 <img src="https://github.com/cpoojashetty/cpoojashetty/assets/94156289/ce7d8b86-a5b6-4419-917a-2ad7f03c15fe" width="900" height="200">
 
-
+# Hey there!! <br/>
+<img src="https://media.tenor.com/VHI30jYFfR8AAAAj/hi-hey.gif" width="200" height="200">
 # 💫 About Me:
 As a future engineer, I'm passionate about creating solutions that matter. Currently, I possess a strong foundation in Information Science & Engineering. 
 I'm determined to apply my knowledge to real-world challenges and seek opportunities to grow with inspiring teams.🚀💡
